@@ -1,1 +1,2 @@
-# Clown-riot-mine-site
+# ClownRiotFarm Backend
+This folder will simulate staking/locking and BTC logic.
